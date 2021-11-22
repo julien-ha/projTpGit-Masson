@@ -11,8 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'bonjour de Masson';
-        echo " seconde ligne de programme pour utilisateur Masson.";
+        echo 'Ceci est une erreur de Samson qui a remplacé une ligne. ';
         ?>
     </body>
 </html>
