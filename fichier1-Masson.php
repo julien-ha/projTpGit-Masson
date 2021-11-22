@@ -1,3 +1,3 @@
 <?php
-echo 'Le fichier 1 projet projTpGit-Masson utilisateur Masson ';
+echo 'Le fichier 1 projet projTpGit-Masson utilisateur Masson';
 ?>
